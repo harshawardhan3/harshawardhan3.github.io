@@ -1,6 +1,7 @@
 /*background------------------------------------*/
 html {
   scroll-behavior: smooth;
+  font-size: calc((1vh+1vw)/2)
 }
 body {
   background-color: black;
@@ -219,7 +220,7 @@ body {
 /*paragraph-text---------------------------------------------*/
 .paragraph-text {
   text-align: right;
-  margin-left: 40%;
+  margin-left: 20%;
   color: pink;
   font-family: Courier;
   font-size: 1.5rem;
