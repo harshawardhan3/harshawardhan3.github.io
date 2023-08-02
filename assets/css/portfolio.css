@@ -162,6 +162,7 @@ body {
   align-items: right;
   justify-content: right;
   margin-right: 3.5%;
+  flex-wrap: wrap;
 }
 .flip-card {
   display:inline-block;
